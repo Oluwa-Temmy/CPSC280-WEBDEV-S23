@@ -1,0 +1,53 @@
+body {
+  background-color: peru;
+  font-family: Verdana, sans-serif;
+}
+
+#wrapper {
+  background-color: bisque;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  /*Fix wrapper text-align. second bullet*/
+}
+
+h1 {
+  background-color: #ca6;
+  line-height: 200%;
+  text-align: center;
+}
+
+#javajam {
+  color: white;
+}
+
+nav {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2em;
+  word-spacing: 2em;
+}
+
+main {
+  padding: 1em;
+}
+
+dt {
+  font-weight: 700;
+}
+
+dd {
+  margin-bottom: 1em;
+}
+
+.organic {
+  font-style: italic;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #ca6;
+  padding: 0.5em;
+  font-weight: bold;
+  font-style: italic;
+}
